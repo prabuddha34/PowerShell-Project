@@ -9,7 +9,7 @@
 
 #define SHELL_NAME "PrabuddhaShell"
 #define SHELL_VERSION "0.1.0"
-#define MOM_NUMBER "918617427856"
+#define MOM_NUMBER "xxxxxxxxx"
 #define P_W 20
 #define P_H 20
 
@@ -250,27 +250,27 @@ int main() {
         }
 
         if (strcmp(command, "brave") == 0) {
-            system("C:\\Users\\DELL\\AppData\\Local\\BraveSoftware\\Brave-Browser\\Application\\brave.exe");
+            system("ADDRESS OF THE APPLICATION");
             continue;
         }
 
         if (strcmp(command, "git") == 0) {
-            system("C:\\Users\\DELL\\AppData\\Local\\GitHubDesktop\\GitHubDesktop.exe");
+            system("ADDRESS OF THE APPLICATION");
             continue;
         }
 
         if (strcmp(command, "dis") == 0) {
-            system("C:\\Users\\DELL\\AppData\\Local\\Discord\\Update.exe --processStart Discord.exe");
+            system("ADDRESS OF THE APPLICATION");
             continue;
         }
 
         if (strcmp(command, "vs") == 0) {
-            system("D:\\New_Java_IDE\\VS_Code\\Microsoft VS Code\\Code.exe");
+            system("ADDRESS OF THE APPLICATION");
             continue;
         }
 
         if (strcmp(command, "tele") == 0) {
-            system("D:\\Prabuddha Pal (Project Work)\\Telegram Desktop\\Telegram.exe");
+            system("ADDRESS OF THE APPLICATION");
             continue;
         }
 
