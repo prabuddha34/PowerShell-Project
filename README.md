@@ -60,6 +60,10 @@ It mimics basic PowerShell/CMD functionality with added utilities, apps launcher
 - SPACE → Draw (#)  
 - E → Erase  
 - C → Clear canvas  
+
+
+
+
 - Q → Quit paint mode  
 
 ---
@@ -76,17 +80,9 @@ Example:
 Behavior:
 - Output of first command is passed to second command
 
----
-
-## 💻 Build Instructions
-
-### Compile (GCC / MinGW)
 
 
----
 
 ## 🧪 DEMO (How it looks in action)
+https://github.com/user-attachments/assets/6e220040-7a07-4ef3-84d8-3f9bde8d94b9
 
-
-## 📞 Call Feature
-Example:
